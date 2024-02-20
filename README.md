@@ -10,7 +10,7 @@ This project implements a simple traffic light control system using HTML, CSS, a
 - Animation using CSS
 
 
- .¸.•*(¸.•*´♥`*•.¸)`*•." 
+ .¸.•*(¸.•*´♥`*•.¸)*•." 
 
 
 ## Getting Started

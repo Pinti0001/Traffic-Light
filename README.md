@@ -9,6 +9,10 @@ This project implements a simple traffic light control system using HTML, CSS, a
 - Visual feedback with different colors indicating the current active light.
 - Animation using CSS
 
+
+ .¸.•*(¸.•*´♥`*•.¸)`*•." 
+
+
 ## Getting Started
 
 To get a copy of this project up and running on your local machine, follow these steps:
@@ -18,4 +22,3 @@ To get a copy of this project up and running on your local machine, follow these
 ```bash
 `https://github.com/Pinti0001/Traffic-Light.git`
 
- .¸.•*(¸.•*´♥`*•.¸)`*•." 

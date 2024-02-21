@@ -12,6 +12,7 @@ This project implements a simple traffic light control system using HTML, CSS, a
 
  .¸.•*(¸.•*´♥`*•.¸)*•." 
 
+If You want to check this project then click [here](https://pinti0001.github.io/Traffic-Light/)
 
 ## Getting Started
 
@@ -23,4 +24,4 @@ To get a copy of this project up and running on your local machine, follow these
 `https://github.com/Pinti0001/Traffic-Light.git`
 
 
-If You want to check this project then click [here](https://pinti0001.github.io/Traffic-Light/)
+
